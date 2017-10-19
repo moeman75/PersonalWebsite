@@ -1,6 +1,6 @@
 ## Preview
 
-[![JavaMoe Preview](https://htmlpreview.github.io/?https://github.com/moeman75/PersonalWebsite/blob/master/index.html)](https://htmlpreview.github.io/?https://github.com/moeman75/PersonalWebsite/blob/master/index.html)
+[![JavaMoe Preview](https://github.com/moeman75/PersonalWebsite/blob/master/img/preview.PNG)](https://htmlpreview.github.io/?https://github.com/moeman75/PersonalWebsite/blob/master/index.html)
 
 **[View Live Preview](https://htmlpreview.github.io/?https://github.com/moeman75/PersonalWebsite/blob/master/index.html)**
 
